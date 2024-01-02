@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "137855722397",
+    "project_id": "jobcareer-63ca2",
+    "storage_bucket": "jobcareer-63ca2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137855722397:android:e8cbb2b61284ec54424574",
+        "android_client_info": {
+          "package_name": "com.droidevils.hired"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137855722397-mb5mlcd5ldj9r7ok1iumk0050jjo8aeu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALE0PR7yiXAGKyuzhp3z-WpSjumOvPVXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137855722397-mb5mlcd5ldj9r7ok1iumk0050jjo8aeu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

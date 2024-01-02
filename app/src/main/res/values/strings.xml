@@ -1,0 +1,162 @@
+<resources>
+    <string name="app_name">MyCareer</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="new_user_register_here">New User? Register Here</string>
+    <string name="sign_in">Sign In</string>
+    <string name="featured_services_description">Check out the Featured Services from our wide collection of Services. </string>
+    <string name="dummy_description">asbkd asudhlasn saudnas jasdjasl hisajdl asjdlnas</string>
+    <string name="developer_credits">Created by Team Capstone_17</string>
+    <string name="address">Address</string>
+    <string name="pin_code">PIN Code</string>
+    <string name="gender">Gender</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email_address">Email Address</string>
+    <string name="full_name">Full Name</string>
+    <string name="personal_summary">Personal Summary</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="education_field">Field</string>
+    <string name="education_degree">Degree</string>
+    <string name="education_institution">Institution</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="graduation_date">Graduation Date</string>
+    <string name="job_title">Job Title</string>
+    <string name="job_company">Company</string>
+    <string name="job_location">Location</string>
+    <string name="work_experience">Experience</string>
+    <string name="job_description">Job Description</string>
+    <string name="finish">Finish</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="user_type">
+        <item>Individual</item>
+        <item>Organisation</item>
+    </string-array>
+    <string-array name="degree">
+        <item>Phd</item>
+        <item>Mtech</item>
+        <item>ME</item>
+        <item>MBA</item>
+        <item>MSc</item>
+        <item>MA</item>
+        <item>Btech</item>
+        <item>BE</item>
+        <item>BBA</item>
+        <item>BSc</item>
+        <item>BA</item>
+        <item>High School</item>
+        <item>Uneducated</item>
+    </string-array>
+
+
+    <!--    Profile Values-->
+    <string name="job_success">Job Success</string>
+    <string name="my_desc">Doing at the sweet spot between aesthetics and elegance to give life to your brand.My opinion belong to nobody but myself.</string>
+    <string name="about_me">About Me</string>
+    <string name="contact">Contact</string>
+    <string name="skills">Skills</string>
+    <string name="ratings">Star Ratings</string>
+    <string name="samplereview">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec pretium bibendum sapien, ut euismod massa. Duis convallis sem sed turpis elementum auctor.</string>
+    <string name="education">Education</string>
+    <string name="available">Available</string>
+    <string name="unavailable">Unavailable</string>
+    <string name="cancel">Cancel</string>
+    <string name="update">Update</string>
+    <string name="service">Service</string>
+
+    <!--    Categories-->
+
+    <string-array name="categories">
+        <item>Health Care</item>
+        <item>Hygiene</item>
+        <item>Electronics</item>
+        <item>Software</item>
+        <item>Catering/Culinary</item>
+        <item>Outdoor Care</item>
+        <item>Personal Care</item>
+        <item>Interior</item>
+        <item>Child/Student Help</item>
+        <item>Misc</item>
+    </string-array>
+
+    <string-array name="misc">
+        <item>Grocery/Food/Pharma Delivery</item>
+        <item>Driver</item>
+        <item>Petcare</item>
+        <item>Tailoring</item>
+        <item>Photographer</item>
+    </string-array>
+    <string-array name="child_student_help">
+        <item>Babysitting</item>
+        <item>Child pickup and drop</item>
+        <item>Creche</item>
+        <item>Tuition</item>
+        <item>Counselling</item>
+    </string-array>
+    <string-array name="interior">
+        <item>Painter</item>
+        <item>Furniture Varnish/Assembly</item>
+        <item>Retrofitting</item>
+        <item>Plumbing</item>
+        <item>Woodwork</item>
+    </string-array>
+    <string-array name="personal_care">
+        <item>Massage/Spa</item>
+        <item>Therapist</item>
+        <item>Make-up</item>
+        <item>Grooming</item>
+        <item>Yoga</item>
+    </string-array>
+    <string-array name="outdoor_care">
+        <item>Vehicle Cleaning</item>
+        <item>Gardening and Landscaping</item>
+        <item>Cleaning Public Premises</item>
+        <item>Watchman </item>
+        <item>CCTV/Security Camera installation</item>
+    </string-array>
+    <string-array name="catering_culinary">
+        <item>Catering for Family</item>
+        <item>Catering for Wedding/Party/Function</item>
+        <item>Special Needs Cook</item>
+        <item>Home Cook</item>
+        <item>Home Farming</item>
+    </string-array>
+    <string-array name="software">
+        <item>Software installation</item>
+        <item>Personal Gadget Service</item>
+        <item>Internet Troubleshooting</item>
+        <item>IoT/Smart Home Service</item>
+        <item>Office IT Service </item>
+    </string-array>
+    <string-array name="electronics">
+        <item>Electrician Eervice</item>
+        <item>Fitting new applicances</item>
+        <item>Inverter/UPS</item>
+        <item>Solar Panel Installation</item>
+    </string-array>
+    <string-array name="hygiene">
+        <item>House Cleaning</item>
+        <item>Insecticide Spray</item>
+        <item>Shop/Office Sanitising</item>
+        <item>Restroom Cleaning</item>
+        <item>Laundry</item>
+    </string-array>
+    <string-array name="healthcare">
+        <item>Nursing</item>
+        <item>Mental Healthcare</item>
+        <item>Physician</item>
+        <item>Physiotherapist</item>
+        <item>Elderly Care</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
